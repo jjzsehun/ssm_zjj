@@ -5,6 +5,8 @@
 <!-- modify frank -->
 <!-- add new branch -->
 <!-- merge to master -->
+<!-- merge to master 2 -->
+<!-- merge to master 3 -->
 <beans xmlns="http://www.springframework.org/schema/beans"
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xmlns:context="http://www.springframework.org/schema/context"
