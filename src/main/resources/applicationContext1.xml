@@ -8,6 +8,7 @@
 <!-- merge to master 2 -->
 <!-- merge to master 3 -->
 <!-- merge to master 4 -->
+<!-- merge to master 8 -->
 <beans xmlns="http://www.springframework.org/schema/beans"
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xmlns:context="http://www.springframework.org/schema/context"
